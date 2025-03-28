@@ -1,18 +1,18 @@
 <h1 align="center">
-  🇮🇳❤️‍🔥ᴛᴜsʜᴀʀ ᴛxᴛ ᴜᴘʟᴏᴀᴅᴇʀ❤️‍🔥🇮🇳
+  🇮🇳❤️‍🔥BRIJESH ᴛxᴛ ᴜᴘʟᴏᴀᴅᴇʀ❤️‍🔥🇮🇳
 </h1>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+Txt+Uploader+Bot+!)
 
 ## Credit
 
-🥳 Credit Goes To [💥ᴛᴜsʜᴀʀ💥]
+🥳 Credit Goes To [💥𝐌𝐑 𝐁𝐑𝐈𝐉𝐄𝐒𝐇 😇💥]
 
   
 ## 🔥 Commands
 
 - **`/start`**: ⚡ check bot is alive.
-- **`/tushar`**:  📁 upload txt file.
+- **`/brijesh`**:  📁 upload txt file.
 - **`/stop`**: 🛑 stop ongoing process.
 - **`/restart`**: 🔮 restart the bot.
 - **`/cookies`**: 🍪 Upload cookies file.
