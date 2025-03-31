@@ -146,10 +146,6 @@ caption = (
 "➠ **Use /brijesh Command to Download From TXT File 📄.\n"
 
 "➠ **𝐌𝐚𝐝𝐞 𝐁𝐲:»⟩ BRIJESH."
-        "**ʜᴇʟʟᴏ👋**\n\n"
-        "☆ **ɪ ᴀᴍ ᴛxᴛ ᴛᴏ ᴠɪᴅᴇᴏ ᴜᴘʟᴏᴀᴅᴇʀ ʙᴏᴛ.**\n"
-        "☆ **ғᴏʀ ᴜsᴇ ᴍᴇ sᴇɴᴅ /brijesh.\n"
-        "☆ **ғᴏʀ ɢᴜɪᴅᴇ sᴇɴᴅ /help."
 )
     
 # Start command handler
