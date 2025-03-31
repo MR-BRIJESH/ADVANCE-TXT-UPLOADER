@@ -1,5 +1,5 @@
 <h1 align="center">
-  🇮🇳❤️‍🔥BRIJESH ᴛxᴛ ᴜᴘʟᴏᴀᴅᴇʀ❤️‍🔥🇮🇳
+  🇮🇳❤️‍🔥BRIJESH TXT UPLOADER ❤️‍🔥🇮🇳
 </h1>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+Txt+Uploader+Bot+!)
