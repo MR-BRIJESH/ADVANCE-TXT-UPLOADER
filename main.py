@@ -47,9 +47,9 @@ cookies_file_path = os.getenv("COOKIES_FILE_PATH", "youtube_cookies.txt")
 OWNER_ID = 6344648593 # Replace with the actual owner's user ID
 
 # List of sudo users (initially empty or pre-populated)
-SUDO_USERS = [6344648593,7241062329,6908710065,6036334311,6453701484,6323515385,6895787958]
+SUDO_USERS = [6344648593.7241062329.6908710065.6036334311.6453701484.6323515385.6895787958]
 
-AUTH_CHANNEL = [-1002393843982]
+AUTH_CHANNEL = [1002393843982]
 
 # Function to check if a user is authorized
 def is_authorized(user_id: int) -> bool:
@@ -700,7 +700,7 @@ async def upload(bot: Client, m: Message):
 
     except Exception as e:
         await m.reply_text(e)
-    #await m.reply_text("**🥳𝗦𝘂𝗰𝗰𝗲𝘀𝘀𝗳𝘂𝗹𝗹𝘆 𝗗𝗼𝗻𝗲🥳**")
+    await m.reply_text("**🥳𝗦𝘂𝗰𝗰𝗲𝘀𝘀𝗳𝘂𝗹𝗹𝘆 𝗗𝗼𝗻𝗲🥳**")
     await m.reply_text(f"`✨𝗕𝗔𝗧𝗖𝗛 𝗦𝗨𝗠𝗠𝗔𝗥𝗬✨\n\n"
                        f"▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n"
                        f"📛𝗜𝗻𝗱𝗲𝘅 𝗥𝗮𝗻𝗴𝗲 » ({raw_text} to {len(links)})\n"
@@ -711,7 +711,7 @@ async def upload(bot: Client, m: Message):
                        f"🔹𝗩𝗶𝗱𝗲𝗼 » {video_count}\n🔹𝗣𝗱𝗳 » {pdf_count}\n🔹𝗜𝗺𝗴 » {img_count}\n🔹𝗭𝗶𝗽 » {zip_count}\n🔹𝗙𝗮𝗶𝗹𝗲𝗱 𝗨𝗿𝗹 » {failed_count}\n\n"
                        f"▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n"
                        f"✅𝗦𝗧𝗔𝗧𝗨𝗦 » 𝗖𝗢𝗠𝗣𝗟𝗘𝗧𝗘𝗗`")
-    await m.reply_text(f"<pre><code>📥𝗘𝘅𝘁𝗿𝗮𝗰𝘁𝗲𝗱 𝗕𝘆 ➤『{𝐌𝐑 𝐁𝐑𝐈𝐉𝐄𝐒𝐇 😇}』</code></pre>")
+    await m.reply_text(f"<pre><code>📥𝗘𝘅𝘁𝗿𝗮𝗰𝘁𝗲𝗱 𝗕𝘆 ➤『 𝐁𝐑𝐈𝐉𝐄𝐒𝐇 😇}』</code></pre>")
     await m.reply_text(f"<pre><code>『😏𝗥𝗲𝗮𝗰𝘁𝗶𝗼𝗻 𝗞𝗼𝗻 𝗗𝗲𝗴𝗮😏』</code></pre>")
 
 bot.run()
